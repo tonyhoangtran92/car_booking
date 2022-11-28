@@ -1,0 +1,1 @@
+export type CoordinateInput = { lat: number; lng: number }
